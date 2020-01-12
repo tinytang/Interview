@@ -4,7 +4,7 @@
 
 > **你已经抓住了石头，现在是挥舞它的时候了！**
 
-* [ApacheCN 组织资源](https://www.ibooker.org.cn/docs): <https://www.ibooker.org.cn/docs>
+* [ApacheCN 组织资源](https://docs.apachecn.org/): <https://docs.apachecn.org/>
 * **ApacheCN - 比赛学习群【724187166】<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=9bcf2fb3985835c9c2f15783ec9c85822e23be1191a6581eaf22f574b5192b19"><img border="0" src="http://data.apachecn.org/img/logo/ApacheCN-group.png" alt="ApacheCN - 比赛学习群[724187166]" title="ApacheCN - 比赛学习群[724187166]"></a>**
 * [Kaggle](https://www.kaggle.com) 是一个流行的数据科学竞赛平台。
 * [GitHub 入门操作指南](/docs/GitHub/README.md) 和 [Kaggle 入门操作指南](/docs/kaggle-quickstart.md)，适合于学习过 [MachineLearning(机器学习实战)](https://github.com/apachecn/MachineLearning) 的小盆友
@@ -22,7 +22,8 @@
 
 > kaggle入门系列
 
-* [【Kaggle 入门篇】B站视频讲解，跟我们一起来学习吧！](https://www.bilibili.com/video/av53119200)
+* [Kaggle系列-数字识别](https://www.bilibili.com/video/av53119200)
+* [Kaggle系列-泰坦尼克号](https://www.bilibili.com/video/av65679428)
 
 > 比赛直播系列
 
@@ -30,6 +31,23 @@
 * [文档: icme2019-top2.pptx](/docs/简历指南/icme2019-top2.pptx)
 * [昊神GitHub地址: https://github.com/Smilexuhc](https://github.com/Smilexuhc)
 * [昊神整理比赛系列: https://github.com/Smilexuhc/Data-Competition-TopSolution](https://github.com/Smilexuhc/Data-Competition-TopSolution)
+
+## Kaggle 官方教程
+
+> 机器学习入门
+
+* [**1. 模型是怎样工作的**](learn/intro-to-machine-learning/1.md)
+* [**2. 数据探索**](learn/intro-to-machine-learning/2.md)
+* [**3. 你的第一个机器学习模型**](learn/intro-to-machine-learning/3.md)
+* [**4. 模型验证**](learn/intro-to-machine-learning/4.md)
+* [**5. 欠拟合与过拟合**](learn/intro-to-machine-learning/5.md)
+* [**6. 随机森林**](learn/intro-to-machine-learning/6.md)
+* [**7. 继续你的征程**](learn/intro-to-machine-learning/7.md)
+
+> 补充
+
+* [**Embedding**](learn/embeddings)
+
 
 ## [竞赛](https://www.kaggle.com/competitions)
 
@@ -164,49 +182,3 @@ WriteUp 需要带有预处理过程，从你能下载到的原始数据开始，
 请放在`/competitions/{分类}/{名称}`目录下。
 
 其中分类一共有六个，请见上面，名称是 URL 中`/c/`后面的部分。
-
-## 联系方式
-
-> 项目负责人
-
-* [@jiangzhonglian](https://github.com/jiangzhonglian)（片刻）
-
-> 项目发起人
-
-* [@jiangzhonglian](https://github.com/jiangzhonglian)（片刻）
-* [@wangyangting](https://github.com/wangyangting)（那伊抹微笑）
-* [@chenyyx](https://github.com/chenyyx)（瑶妹）
-
-> 项目贡献者（请手动添加）
-
-* [@jiangzhonglian](https://github.com/jiangzhonglian)（片刻）
-* [@wangyangting](https://github.com/wangyangting)（那伊抹微笑）
-* [@chenyyx](https://github.com/chenyyx)（瑶妹）
-* [@zehuichen](https://github.com/zehuichen123)(loveSnowBest)
-* [@谈笑风生](https://github.com/zhu1040028623)（谈笑风生）
-* [@诺木人](https://github.com/1mrliu)（诺木人）
-* [@飞龙](https://github.com/wizardforcel)
-
-> 加入方式
-
-有任何建议反馈, 或想参与文档翻译, 麻烦联系下面的企鹅
-* 企鹅: 529815144(片刻) 1042658081(那伊抹微笑) 190442212(瑶妹)
-* **ApacheCN - 比赛学习群【724187166】<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=9bcf2fb3985835c9c2f15783ec9c85822e23be1191a6581eaf22f574b5192b19"><img border="0" src="http://data.apachecn.org/img/logo/ApacheCN-group.png" alt="ApacheCN - 比赛学习群[724187166]" title="ApacheCN - 比赛学习群[724187166]"></a>**
-* **Kaggle (数据科学竞赛平台) | [ApacheCN(apache中文网)](http://www.apachecn.org/)**
-
-<img src="http://data.apachecn.org/img/about/donate.jpg" alt="微信&支付宝" />
-
----
-
-> 特别赞助商(欢迎“私聊”赞助)
-
-<table>
-      <tbody>
-        <tr>
-          <td align="center" valign="middle">
-            <a href="https://coding.net/?utm_source=ApacheCN&utm_medium=banner&utm_campaign=march2019" target="_blank">
-              <img width="1080" src="http://data.apachecn.org/img/SpecialSponsors/CodingNet.png">
-            </a>
-          </td>
-      </tbody>
-</table>
